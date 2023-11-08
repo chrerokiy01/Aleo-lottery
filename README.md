@@ -1,5 +1,5 @@
 # lottery.aleo
-
+My discrod: chrerokiy01
 ## Run Guide
 
 To run this program, run:
